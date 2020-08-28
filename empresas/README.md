@@ -10,3 +10,6 @@
 
 * [TerraMagna](https://www.terramagna.com.br)
     * Trabalhando com Rust em todos os microserviços.
+
+* [Magnetis](https://www.magnetis.com.br)
+    * Trabalhando em Rust para algoritmos de projeção financeira
