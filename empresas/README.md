@@ -20,3 +20,8 @@
         - [lunescrab](https://github.com/lunes-platform/lunescrab)
     * Vamos construir um futuro Descentralizado e Open-source? 🚀💜
         - Conheça nosso [github](https://github.com/lunes-platform/)
+* [iFood](https://carreiras.ifood.com.br/en/jobs?area=Technology)
+  * Usamos Rust em uma série de microsserviços dentro da nossa plataforma logística. Pra manter essas aplicações também
+    desenvolvemos bibliotecas de mensageria (Kafka e SQS), de monitoramento (New Relic) e ferramental pra facilitar
+    tarefas mais operacionais (reprocessamento de eventos, interação com tópicos Kafka etc.) Descrevemos um pouco da
+    nossa jornada de adoção de Rust neste [texto no Medium](https://medium.com/ifood-tech/nossa-jornada-em-rust-d64d1975f05e).
